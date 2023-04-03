@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "youtubeblog"
+    "name": "thistle-viper"
   },
   "api": {
-    "projectId": "2hp9gld0",
+    "projectId": "ya1t47dm",
     "dataset": "production"
   },
   "plugins": [
